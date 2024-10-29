@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "9aca",
+      "description": "New task",
+      "checked": false
+    },
+    {
+      "checked": true,
+      "description": "New task checked",
+      "id": "67a5"
+    }
+  ]
+}
